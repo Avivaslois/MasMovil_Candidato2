@@ -1,0 +1,11 @@
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Infrastructure/bin/obj/Docker/publish/netcoreapp2.1/Catalog.Infrastructure.deps.json
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Infrastructure/bin/obj/Docker/publish/netcoreapp2.1/Catalog.Infrastructure.runtimeconfig.json
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Infrastructure/bin/obj/Docker/publish/netcoreapp2.1/Catalog.Infrastructure.runtimeconfig.dev.json
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Infrastructure/bin/obj/Docker/publish/netcoreapp2.1/Catalog.Infrastructure.dll
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Infrastructure/bin/obj/Docker/publish/netcoreapp2.1/Catalog.Infrastructure.pdb
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Infrastructure/obj/obj/Docker/publish/netcoreapp2.1/Catalog.Infrastructure.csprojAssemblyReference.cache
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Infrastructure/obj/obj/Docker/publish/netcoreapp2.1/Catalog.Infrastructure.csproj.CoreCompileInputs.cache
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Infrastructure/obj/obj/Docker/publish/netcoreapp2.1/Catalog.Infrastructure.AssemblyInfoInputs.cache
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Infrastructure/obj/obj/Docker/publish/netcoreapp2.1/Catalog.Infrastructure.AssemblyInfo.cs
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Infrastructure/obj/obj/Docker/publish/netcoreapp2.1/Catalog.Infrastructure.dll
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Infrastructure/obj/obj/Docker/publish/netcoreapp2.1/Catalog.Infrastructure.pdb

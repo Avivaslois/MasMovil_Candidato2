@@ -1,0 +1,9 @@
+/home/dxd/Desktop/PhoneApp_linux/Order.Infrastructure/bin/obj/Docker/publish/netcoreapp2.1/Order.Infrastructure.deps.json
+/home/dxd/Desktop/PhoneApp_linux/Order.Infrastructure/bin/obj/Docker/publish/netcoreapp2.1/Order.Infrastructure.dll
+/home/dxd/Desktop/PhoneApp_linux/Order.Infrastructure/bin/obj/Docker/publish/netcoreapp2.1/Order.Infrastructure.pdb
+/home/dxd/Desktop/PhoneApp_linux/Order.Infrastructure/obj/obj/Docker/publish/netcoreapp2.1/Order.Infrastructure.csprojAssemblyReference.cache
+/home/dxd/Desktop/PhoneApp_linux/Order.Infrastructure/obj/obj/Docker/publish/netcoreapp2.1/Order.Infrastructure.csproj.CoreCompileInputs.cache
+/home/dxd/Desktop/PhoneApp_linux/Order.Infrastructure/obj/obj/Docker/publish/netcoreapp2.1/Order.Infrastructure.AssemblyInfoInputs.cache
+/home/dxd/Desktop/PhoneApp_linux/Order.Infrastructure/obj/obj/Docker/publish/netcoreapp2.1/Order.Infrastructure.AssemblyInfo.cs
+/home/dxd/Desktop/PhoneApp_linux/Order.Infrastructure/obj/obj/Docker/publish/netcoreapp2.1/Order.Infrastructure.dll
+/home/dxd/Desktop/PhoneApp_linux/Order.Infrastructure/obj/obj/Docker/publish/netcoreapp2.1/Order.Infrastructure.pdb

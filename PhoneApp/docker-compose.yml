@@ -1,0 +1,27 @@
+version: '3'
+
+services:
+  catalog.api:
+    image: catalog.api:latest
+    environment:
+      - ConnectionStrings=PhoneDatabase=Data source = App_Data/phoneAppDB.db
+      - ASPNETCORE_URLS=http://+:8081
+    expose:
+      - "8081"
+    ports:
+      - "8081:8081"
+    entrypoint:
+      - "dotnet"
+      - "Catalog.API.dll"
+
+  order.api:
+    image: order.api:latest
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+    expose:
+      - "8080"
+    ports:
+      - "8080:8080"
+    entrypoint:
+      - "dotnet"
+      - "Order.API.dll"

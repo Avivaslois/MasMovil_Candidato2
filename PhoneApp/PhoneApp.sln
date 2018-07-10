@@ -1,0 +1,119 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27825.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.API", "Catalog.API\Catalog.API.csproj", "{1C1E6F41-18B3-4E61-9624-2B4E08CE291B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{4032DC31-FE5B-4B21-A697-DEAE24C966A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.Domain", "Catalog.Domain\Catalog.Domain.csproj", "{E36D6D52-3ACF-43FE-9214-B8B7A172851B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.Infrastructure", "Catalog.Infrastructure\Catalog.Infrastructure.csproj", "{79107B54-804E-4C52-8023-3CBD7D17CBF7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.Test", "Catalog.Test\Catalog.Test.csproj", "{7F5851D1-C80A-4442-88D1-A0C6CC68E8EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Order", "Order", "{E2DFF656-37A9-430B-93B7-0AE0FE55FF71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Order.API", "Order.API\Order.API.csproj", "{73E2FD6A-EFBE-4B0D-87F6-5F255ADB9467}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Order.Domain", "Order.Domain\Order.Domain.csproj", "{106A417E-9291-4BCA-A8CF-6504D6B02415}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Order.Test", "Order.Test\Order.Test.csproj", "{659AA754-BC98-4821-A0AB-241584AF2ACD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Order.Infrastructure", "Order.Infrastructure\Order.Infrastructure.csproj", "{B35B2FC5-3836-402B-A2C3-5DD5FC253609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C1E6F41-18B3-4E61-9624-2B4E08CE291B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1E6F41-18B3-4E61-9624-2B4E08CE291B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1E6F41-18B3-4E61-9624-2B4E08CE291B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1E6F41-18B3-4E61-9624-2B4E08CE291B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E36D6D52-3ACF-43FE-9214-B8B7A172851B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36D6D52-3ACF-43FE-9214-B8B7A172851B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36D6D52-3ACF-43FE-9214-B8B7A172851B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36D6D52-3ACF-43FE-9214-B8B7A172851B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79107B54-804E-4C52-8023-3CBD7D17CBF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79107B54-804E-4C52-8023-3CBD7D17CBF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79107B54-804E-4C52-8023-3CBD7D17CBF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79107B54-804E-4C52-8023-3CBD7D17CBF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F5851D1-C80A-4442-88D1-A0C6CC68E8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F5851D1-C80A-4442-88D1-A0C6CC68E8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F5851D1-C80A-4442-88D1-A0C6CC68E8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F5851D1-C80A-4442-88D1-A0C6CC68E8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E2FD6A-EFBE-4B0D-87F6-5F255ADB9467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E2FD6A-EFBE-4B0D-87F6-5F255ADB9467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E2FD6A-EFBE-4B0D-87F6-5F255ADB9467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E2FD6A-EFBE-4B0D-87F6-5F255ADB9467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106A417E-9291-4BCA-A8CF-6504D6B02415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106A417E-9291-4BCA-A8CF-6504D6B02415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106A417E-9291-4BCA-A8CF-6504D6B02415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106A417E-9291-4BCA-A8CF-6504D6B02415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659AA754-BC98-4821-A0AB-241584AF2ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659AA754-BC98-4821-A0AB-241584AF2ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659AA754-BC98-4821-A0AB-241584AF2ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659AA754-BC98-4821-A0AB-241584AF2ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B35B2FC5-3836-402B-A2C3-5DD5FC253609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35B2FC5-3836-402B-A2C3-5DD5FC253609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35B2FC5-3836-402B-A2C3-5DD5FC253609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35B2FC5-3836-402B-A2C3-5DD5FC253609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1C1E6F41-18B3-4E61-9624-2B4E08CE291B} = {4032DC31-FE5B-4B21-A697-DEAE24C966A5}
+		{E36D6D52-3ACF-43FE-9214-B8B7A172851B} = {4032DC31-FE5B-4B21-A697-DEAE24C966A5}
+		{79107B54-804E-4C52-8023-3CBD7D17CBF7} = {4032DC31-FE5B-4B21-A697-DEAE24C966A5}
+		{7F5851D1-C80A-4442-88D1-A0C6CC68E8EE} = {4032DC31-FE5B-4B21-A697-DEAE24C966A5}
+		{73E2FD6A-EFBE-4B0D-87F6-5F255ADB9467} = {E2DFF656-37A9-430B-93B7-0AE0FE55FF71}
+		{106A417E-9291-4BCA-A8CF-6504D6B02415} = {E2DFF656-37A9-430B-93B7-0AE0FE55FF71}
+		{659AA754-BC98-4821-A0AB-241584AF2ACD} = {E2DFF656-37A9-430B-93B7-0AE0FE55FF71}
+		{B35B2FC5-3836-402B-A2C3-5DD5FC253609} = {E2DFF656-37A9-430B-93B7-0AE0FE55FF71}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {473B323A-F451-41ED-BB87-C0BE6DFA98C6}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://esmadvsap210:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Catalog.API\\Catalog.API.csproj
+		SccProjectTopLevelParentUniqueName1 = PhoneApp.sln
+		SccProjectName1 = Catalog.API
+		SccLocalPath1 = Catalog.API
+		SccProjectUniqueName2 = Catalog.Domain\\Catalog.Domain.csproj
+		SccProjectTopLevelParentUniqueName2 = PhoneApp.sln
+		SccProjectName2 = Catalog.Domain
+		SccLocalPath2 = Catalog.Domain
+		SccProjectUniqueName3 = Catalog.Infrastructure\\Catalog.Infrastructure.csproj
+		SccProjectTopLevelParentUniqueName3 = PhoneApp.sln
+		SccProjectName3 = Catalog.Infrastructure
+		SccLocalPath3 = Catalog.Infrastructure
+		SccProjectUniqueName4 = Catalog.Test\\Catalog.Test.csproj
+		SccProjectTopLevelParentUniqueName4 = PhoneApp.sln
+		SccProjectName4 = Catalog.Test
+		SccLocalPath4 = Catalog.Test
+		SccProjectUniqueName5 = Order.API\\Order.API.csproj
+		SccProjectTopLevelParentUniqueName5 = PhoneApp.sln
+		SccProjectName5 = Order.API
+		SccLocalPath5 = Order.API
+		SccProjectUniqueName6 = Order.Domain\\Order.Domain.csproj
+		SccProjectTopLevelParentUniqueName6 = PhoneApp.sln
+		SccProjectName6 = Order.Domain
+		SccLocalPath6 = Order.Domain
+		SccProjectUniqueName7 = Order.Test\\Order.Test.csproj
+		SccProjectTopLevelParentUniqueName7 = PhoneApp.sln
+		SccProjectName7 = Order.Test
+		SccLocalPath7 = Order.Test
+		SccProjectUniqueName8 = Order.Infrastructure\\Order.Infrastructure.csproj
+		SccProjectTopLevelParentUniqueName8 = PhoneApp.sln
+		SccProjectName8 = Order.Infrastructure
+		SccLocalPath8 = Order.Infrastructure
+	EndGlobalSection
+EndGlobal

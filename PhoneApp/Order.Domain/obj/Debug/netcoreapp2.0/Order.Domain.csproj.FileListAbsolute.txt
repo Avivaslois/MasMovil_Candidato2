@@ -1,0 +1,8 @@
+C:\Users\DTUser\source\repos\PhoneApp\Order.Domain\bin\Debug\netcoreapp2.0\Order.Domain.deps.json
+C:\Users\DTUser\source\repos\PhoneApp\Order.Domain\bin\Debug\netcoreapp2.0\Order.Domain.dll
+C:\Users\DTUser\source\repos\PhoneApp\Order.Domain\bin\Debug\netcoreapp2.0\Order.Domain.pdb
+C:\Users\DTUser\source\repos\PhoneApp\Order.Domain\obj\Debug\netcoreapp2.0\Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DTUser\source\repos\PhoneApp\Order.Domain\obj\Debug\netcoreapp2.0\Order.Domain.AssemblyInfoInputs.cache
+C:\Users\DTUser\source\repos\PhoneApp\Order.Domain\obj\Debug\netcoreapp2.0\Order.Domain.AssemblyInfo.cs
+C:\Users\DTUser\source\repos\PhoneApp\Order.Domain\obj\Debug\netcoreapp2.0\Order.Domain.dll
+C:\Users\DTUser\source\repos\PhoneApp\Order.Domain\obj\Debug\netcoreapp2.0\Order.Domain.pdb

@@ -1,0 +1,12 @@
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Domain\bin\Debug\netcoreapp2.0\Catalog.Domain.deps.json
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Domain\bin\Debug\netcoreapp2.0\Catalog.Domain.dll
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Domain\bin\Debug\netcoreapp2.0\Catalog.Domain.pdb
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Domain\bin\Debug\netcoreapp2.0\Catalog.Infrastructure.dll
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Domain\bin\Debug\netcoreapp2.0\Catalog.Infrastructure.pdb
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Domain\obj\Debug\netcoreapp2.0\Catalog.Domain.csprojAssemblyReference.cache
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Domain\obj\Debug\netcoreapp2.0\Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Domain\obj\Debug\netcoreapp2.0\Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Domain\obj\Debug\netcoreapp2.0\Catalog.Domain.AssemblyInfo.cs
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Domain\obj\Debug\netcoreapp2.0\Catalog.Domain.csproj.CopyComplete
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Domain\obj\Debug\netcoreapp2.0\Catalog.Domain.dll
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Domain\obj\Debug\netcoreapp2.0\Catalog.Domain.pdb

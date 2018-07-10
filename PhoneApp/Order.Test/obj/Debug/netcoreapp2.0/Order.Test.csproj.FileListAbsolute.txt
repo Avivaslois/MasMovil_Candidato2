@@ -1,0 +1,13 @@
+C:\Users\DTUser\source\repos\PhoneApp\Order.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DTUser\source\repos\PhoneApp\Order.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DTUser\source\repos\PhoneApp\Order.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DTUser\source\repos\PhoneApp\Order.Test\bin\Debug\netcoreapp2.0\Order.Test.deps.json
+C:\Users\DTUser\source\repos\PhoneApp\Order.Test\bin\Debug\netcoreapp2.0\Order.Test.runtimeconfig.json
+C:\Users\DTUser\source\repos\PhoneApp\Order.Test\bin\Debug\netcoreapp2.0\Order.Test.runtimeconfig.dev.json
+C:\Users\DTUser\source\repos\PhoneApp\Order.Test\bin\Debug\netcoreapp2.0\Order.Test.dll
+C:\Users\DTUser\source\repos\PhoneApp\Order.Test\bin\Debug\netcoreapp2.0\Order.Test.pdb
+C:\Users\DTUser\source\repos\PhoneApp\Order.Test\obj\Debug\netcoreapp2.0\Order.Test.csproj.CoreCompileInputs.cache
+C:\Users\DTUser\source\repos\PhoneApp\Order.Test\obj\Debug\netcoreapp2.0\Order.Test.AssemblyInfoInputs.cache
+C:\Users\DTUser\source\repos\PhoneApp\Order.Test\obj\Debug\netcoreapp2.0\Order.Test.AssemblyInfo.cs
+C:\Users\DTUser\source\repos\PhoneApp\Order.Test\obj\Debug\netcoreapp2.0\Order.Test.dll
+C:\Users\DTUser\source\repos\PhoneApp\Order.Test\obj\Debug\netcoreapp2.0\Order.Test.pdb

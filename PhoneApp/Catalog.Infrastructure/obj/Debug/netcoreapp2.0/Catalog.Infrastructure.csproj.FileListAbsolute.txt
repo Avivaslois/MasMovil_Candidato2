@@ -1,0 +1,11 @@
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Infrastructure\bin\Debug\netcoreapp2.0\Catalog.Infrastructure.deps.json
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Infrastructure\bin\Debug\netcoreapp2.0\Catalog.Infrastructure.dll
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Infrastructure\bin\Debug\netcoreapp2.0\Catalog.Infrastructure.pdb
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Infrastructure\obj\Debug\netcoreapp2.0\Catalog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Infrastructure\obj\Debug\netcoreapp2.0\Catalog.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Infrastructure\obj\Debug\netcoreapp2.0\Catalog.Infrastructure.AssemblyInfo.cs
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Infrastructure\obj\Debug\netcoreapp2.0\Catalog.Infrastructure.dll
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Infrastructure\obj\Debug\netcoreapp2.0\Catalog.Infrastructure.pdb
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Infrastructure\obj\Debug\netcoreapp2.0\Catalog.Infrastructure.csprojAssemblyReference.cache
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Infrastructure\bin\Debug\netcoreapp2.0\Catalog.Infrastructure.runtimeconfig.json
+C:\Users\DTUser\source\repos\PhoneApp\Catalog.Infrastructure\bin\Debug\netcoreapp2.0\Catalog.Infrastructure.runtimeconfig.dev.json

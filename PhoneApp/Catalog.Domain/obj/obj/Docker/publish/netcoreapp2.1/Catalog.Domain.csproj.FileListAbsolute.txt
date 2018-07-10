@@ -1,0 +1,12 @@
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/bin/obj/Docker/publish/netcoreapp2.1/Catalog.Domain.deps.json
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/bin/obj/Docker/publish/netcoreapp2.1/Catalog.Domain.dll
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/bin/obj/Docker/publish/netcoreapp2.1/Catalog.Domain.pdb
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/bin/obj/Docker/publish/netcoreapp2.1/Catalog.Infrastructure.dll
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/bin/obj/Docker/publish/netcoreapp2.1/Catalog.Infrastructure.pdb
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/obj/obj/Docker/publish/netcoreapp2.1/Catalog.Domain.csprojAssemblyReference.cache
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/obj/obj/Docker/publish/netcoreapp2.1/Catalog.Domain.csproj.CoreCompileInputs.cache
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/obj/obj/Docker/publish/netcoreapp2.1/Catalog.Domain.AssemblyInfoInputs.cache
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/obj/obj/Docker/publish/netcoreapp2.1/Catalog.Domain.AssemblyInfo.cs
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/obj/obj/Docker/publish/netcoreapp2.1/Catalog.Domain.csproj.CopyComplete
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/obj/obj/Docker/publish/netcoreapp2.1/Catalog.Domain.dll
+/home/dxd/Desktop/PhoneApp_linux/Catalog.Domain/obj/obj/Docker/publish/netcoreapp2.1/Catalog.Domain.pdb
