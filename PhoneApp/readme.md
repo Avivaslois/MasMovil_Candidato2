@@ -1,4 +1,4 @@
-# MasMovil CHALLENGE DotNet Core - Sergio Delgado
+# MasMovil CHALLENGE DotNet Core - Candidato2
 
 ## SOLUTION
 
